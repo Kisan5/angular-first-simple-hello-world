@@ -1,6 +1,6 @@
 # AngularFirstHelloWorld
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12, node 18.20.5 and npm 10.8.2.
 
 ## Development server
 
